@@ -1,0 +1,256 @@
+0
+Körlük
+Jose Saramago
+Roman
+1999
+İngilizce
+360
+Rafta
+1
+Doktor ox'un Deneyi
+Jules Verne
+Roman
+2016
+Türkçe
+90
+Rafta
+2
+Gençlerle Başbaşa
+Ali Fuad Başgil
+Kişisel Gelişim
+2017
+Türkçe
+80
+Rafta
+3
+Kuşların Dili
+Cahit Zarifoğlu
+Tasavvuf
+2018
+Türkçe
+96
+Rafta
+4
+İntibah
+Namık Kemal
+Roman
+2018
+Türkçe
+175
+Rafta
+5
+Dokuzuncu Hariciye Koğuşu
+Peyamı Safa
+Roman
+2009
+Türkçe
+114
+Rafta
+6
+Her Şey Seninle Başlar
+Mümin Sekman
+Kişisel Gelişim
+2013
+Türkçe
+250
+Rafta
+7
+İffet
+Hüseyin Rahmi Gürpınar
+Roman
+2014
+Türkçe
+112
+Rafta
+8
+Bilinçaltının Gücü
+Joseph Murphy
+Kişisel Gelişim
+2009
+Türkçe
+288
+Rafta
+9
+Ağlama Tuna
+Halide Alptekin
+Roman
+2012
+Türkçe
+360
+Rafta
+10
+İknanın Anahtarı
+Mark Goulston
+Kişisel gelişim
+2010
+Türkçe
+318
+Rafta
+11
+Tongue Fu
+Sam Horn
+Kişisel Gelişim
+2015
+Türkçe
+289
+Rafta
+12
+Nur
+Mustafa Kutlu
+Hikaye
+2011
+Türkçe
+98
+Rafta
+13
+Çavdar Tarlasında Çocuklar
+Jerome David Salinger
+Roman
+2010
+Türkçe
+198
+Rafta
+14
+Sis ve Gece
+Ahmet Ümit
+Roman
+1996
+Türkçe
+448
+Rafta
+15
+Toprak Ana
+Cengiz Aytmatov
+Roman
+1999
+Türkçe
+152
+Rafta
+16
+Ateşten Gömlek
+Halide Edip Adıvar
+Roman
+2016
+Türkçe
+256
+Rafta
+17
+The Graveyard Book
+Neil Gaiman
+Roman
+2008
+İngilizce
+279
+Rafta
+18
+Herlanda
+İrfan Değirmenci
+Deneme
+2018
+Türkçe
+280
+Rafta
+19
+Cumba
+Karin Karakaşlı
+Deneme
+2017
+Türkçe
+256
+Rafta
+20
+Filozoflar Nasıl Yürür
+Roger Pol Droit
+Felsefe
+2017
+Türkçe
+256
+Rafta
+21
+Küçüğüm
+Germano Zulo Albertine
+Felsefe
+2018
+Türkçe
+80
+Rafta
+22
+Mitomani
+Peter Conrad
+Bilim
+2019
+Türkçe
+261
+Rafta
+23
+Bana Yalan Söylediler
+Seth Stephens Davidawitz
+Bilim
+2018
+Türkçe
+256
+Rafta
+24
+Şimdiki Çocuklar Harika
+Aziz Nesin
+Mizah
+2005
+Türkçe
+208
+Rafta
+25
+GORA
+Cem Yılmaz
+Mizah
+2017
+Türkçe
+247
+Rafta
+26
+Mamaera
+Zeynep Benhisavi Çelik
+Yemek Kitapları
+2019
+Türkçe
+103
+Rafta
+27
+Sinema
+Hasan Yılmaz
+Sinema Tarihi
+2016
+Türkçe
+384
+Rafta
+28
+Suç ve Ceza
+Dostoyevski
+Roman
+2014
+Türkçe
+660
+Rafta
+29
+Korku
+Stefan Zweig
+Kurgu
+2016
+Türkçe
+75
+Rafta
+30
+Fahrenheit 451
+Ray Bradbury
+Roman
+2018
+Türkçe
+256
+Rafta
+31
+Hayvan Çiftliği
+George Orwell
+Roman
+2015
+Türkçe
+112
+Rafta

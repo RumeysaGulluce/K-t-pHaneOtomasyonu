@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="location" type="java.awt.Point" editor="org.netbeans.beaninfo.editors.PointEditor">
+      <Point value="[450, 190]"/>
+    </Property>
+    <Property name="undecorated" type="boolean" value="true"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="17" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="31" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.TitledBorderInfo">
+            <TitledBorder>
+              <Border PropertyName="innerBorder" info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+                <LineBorder>
+                  <Color PropertyName="color" blue="66" green="0" red="0" type="rgb"/>
+                </LineBorder>
+              </Border>
+              <Font PropertyName="font" name="Tahoma" size="18" style="0"/>
+              <Color PropertyName="color" blue="33" green="66" red="0" type="rgb"/>
+            </TitledBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="SayfaSayisiLabel" min="-2" pref="72" max="-2" attributes="0"/>
+                      <Component id="DilLabel" alignment="0" min="-2" pref="72" max="-2" attributes="0"/>
+                      <Component id="YayinYiliLabel" alignment="0" min="-2" pref="72" max="-2" attributes="0"/>
+                      <Component id="TurLabel" alignment="0" min="-2" pref="72" max="-2" attributes="0"/>
+                      <Component id="YazarLabel" alignment="0" min="-2" pref="72" max="-2" attributes="0"/>
+                      <Component id="AdLabel" alignment="0" min="-2" pref="72" max="-2" attributes="0"/>
+                      <Component id="BarkodLabel" alignment="0" min="-2" pref="72" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="SayfaSayisiText" pref="140" max="32767" attributes="0"/>
+                      <Component id="DilText" max="32767" attributes="0"/>
+                      <Component id="YazarText" max="32767" attributes="0"/>
+                      <Component id="AdText" max="32767" attributes="0"/>
+                      <Component id="BarkodText" max="32767" attributes="0"/>
+                      <Component id="yayinYiliText" max="32767" attributes="0"/>
+                      <Component id="TurText" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="AraButonu" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="0" pref="115" max="32767" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          <Component id="GuncelleButonu" min="-2" pref="83" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="SilButonu" min="-2" pref="71" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="IptalButonu" min="-2" pref="71" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="55" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="BarkodLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="BarkodText" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="AraButonu" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="AdLabel" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                      <Component id="AdText" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="YazarLabel" alignment="3" min="-2" pref="15" max="-2" attributes="0"/>
+                      <Component id="YazarText" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="TurLabel" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      <Component id="TurText" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="YayinYiliLabel" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                      <Component id="yayinYiliText" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="DilText" max="32767" attributes="0"/>
+                      <Component id="DilLabel" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="3" attributes="0">
+                              <Component id="SayfaSayisiText" alignment="3" min="-2" pref="20" max="-2" attributes="0"/>
+                              <Component id="GuncelleButonu" alignment="3" min="-2" max="-2" attributes="0"/>
+                              <Component id="SilButonu" alignment="3" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="IptalButonu" min="-2" pref="25" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="SayfaSayisiLabel" pref="20" max="32767" attributes="0"/>
+                          <EmptySpace pref="62" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="YayinYiliLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Yay&#x131;n Y&#x131;l&#x131;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="YazarLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Yazar"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="AdLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ad"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="YazarText">
+        </Component>
+        <Component class="javax.swing.JButton" name="IptalButonu">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="&#x130;ptal"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="IptalButonuMouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="DilText">
+        </Component>
+        <Component class="javax.swing.JTextField" name="SayfaSayisiText">
+        </Component>
+        <Component class="javax.swing.JLabel" name="DilLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Dil"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="AdText">
+        </Component>
+        <Component class="javax.swing.JLabel" name="SayfaSayisiLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Sayfa Say&#x131;s&#x131;"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="TurLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="T&#xfc;r"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="BarkodLabel">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Barkod No"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JTextField" name="BarkodText">
+        </Component>
+        <Component class="javax.swing.JButton" name="SilButonu">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Sil"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="SilButonuMouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="GuncelleButonu">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="G&#xfc;ncelle"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="GuncelleButonuMouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="AraButonu">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Ara"/>
+          </Properties>
+          <Events>
+            <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="AraButonuMouseClicked"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JTextField" name="yayinYiliText">
+        </Component>
+        <Component class="javax.swing.JTextField" name="TurText">
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
